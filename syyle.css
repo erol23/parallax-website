@@ -1,9 +1,0 @@
-select {
-    box-sizing: border-box;
-    resize: none;
-    margin-bottom: 20px;
-    height: auto;
-    width: 400px;
-    padding: 10px;
-    display: inline-block;
-}
